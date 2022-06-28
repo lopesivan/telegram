@@ -13,4 +13,6 @@ phone> 5599999999999
 Enter code:66666
 ```
 
+Referências:
+[tg](https://pypi.org/project/tg/)
 
