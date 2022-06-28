@@ -1,11 +1,11 @@
 # Telegram CLI
 
-Para usar basta digitar `make up`, entrar com o número de
+Para usar basta digitar `make run`, entrar com o número de
 telefone no formato internacional e informar o código que
 aparece no telefone.
 
 ```
-make up
+make run
 
 
 Enter your phone number in international format (including country code)
