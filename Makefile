@@ -2,7 +2,7 @@ VERSION       = latest
 URL           = ghcr.io
 NAME          = tg
 OWNER         = paul-nameless
-MACHINENAME   = $(URL)/$(OWNER)/$(NAME)
+MACHINENAME   = registry.local:5000/$(URL)/$(OWNER)/$(NAME)
 CONTAINER_NAME= telegram
 
 DOCKER        = docker
